@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Martinez"
+  given-names: "Megan"
+- family-names: "Taylor Lipnicki"
+  given-names: "Amanda"
+title: "Crocheting Surfaces of Revolution"
+version: 1.0.0
+date-released: 2023-02-13
+url: "https://github.com/meganmartinez/math_crochet"
